@@ -24,6 +24,7 @@ SQL Questions:
 1. Tell me the order of execution of SELECT, WHERE, HAVING, GROUP BY ?
 2. write a query to fetch second maximum salary from a table (assume table have records of employee and their salaries)
 
+
 Frontend:
 1. what is <div> ? explain ?
 2. what is closure in javascript?
